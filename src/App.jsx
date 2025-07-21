@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Accordion from './components/accordion/Accordion.jsx';
-import Randomclr from './components/randomColor/randomclr.jsx';
+import Randomclr from './components/randomColor/Randomclr.jsx';
 import Star from './components/star/Star.jsx';
 import Slider from './components/imageSlider/Slider.jsx';
 import Load from './components/loadmore/Load.jsx';
